@@ -1,0 +1,6 @@
+# BLOCKED
+*.pdf
+
+# ALLOWED
+!*.py
+!*.md
