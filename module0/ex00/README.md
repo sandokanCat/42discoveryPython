@@ -23,7 +23,7 @@
 ## Módulo0 - Python
 
 | Ejercicio 00:          | *Lo básico* |
-|:-----------------------|:-----------:|
+|:-----------------------|:------------|
 | Directorio de entrega: | **ex00/**   |
 | Archivos a entregar:   | **Ninguno** |
 | Funciones autorizadas: | **Ninguna** |
