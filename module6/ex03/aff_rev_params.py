@@ -2,7 +2,6 @@
 
 import sys
 
-
 if len(sys.argv[1:]) < 2: print("none")
 else:
     for p in reversed(sys.argv[1:]):
