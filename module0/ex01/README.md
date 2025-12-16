@@ -27,7 +27,7 @@
 ## Módulo0 - Python
 
 | Ejercicio 01:          | *Mi primer script* |
-|:-----------------------|:------------------:|
+|:-----------------------|:-------------------|
 | Directorio de entrega: | **ex01/**          |
 | Archivos a entregar:   | **42.py**          |
 | Funciones autorizadas: | **Todas**          |
