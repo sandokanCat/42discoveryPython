@@ -24,8 +24,8 @@ Hello World$
 
 ## Módulo0 - Python
 
-| Ejercicio 02:          | *Hello-world* |
-|:-----------------------|:------------------:|
+| Ejercicio 02:          | *Hello-world*      |
+|:-----------------------|:-------------------|
 | Directorio de entrega: | **ex02/**          |
 | Archivos a entregar:   | **hello_world.py** |
 | Funciones autorizadas: | **Todas**          |
