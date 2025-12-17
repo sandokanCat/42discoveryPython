@@ -13,7 +13,7 @@
 - The program should:
   - Accept user input, which will be stored in a numeric variable.
   - Use a loop to display all numbers from an entered number up to 25.
-  - If the input number is greater than 25, display "Error" followed by a new line.
+  - If the input number is greater than 25, display `Error` followed by a new line.
 
 ```shell
 ?> ./to25.py
@@ -52,7 +52,7 @@ Inside the loop, my variable is 25
 - El programa debe:
   - Aceptar una entrada del usuario, que se almacenará en una variable numérica.
   - Usar un bucle para mostrar todos los números desde el número ingresado hasta el 25.
-  - Si el número ingresado es mayor que 25, mostrar «Error» seguido de un salto de línea.
+  - Si el número ingresado es mayor que 25, mostrar `Error` seguido de un salto de línea.
 
 ```shell
 ?> ./to25.py

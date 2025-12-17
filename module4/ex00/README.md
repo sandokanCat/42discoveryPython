@@ -32,10 +32,10 @@ BANANA
 ## Módulo4 - Python
 
 | Exercise 00:       | *Velo en Mayúsculas* |
-|:-------------------|:----------------------|
-| Turn-in directory: | **ex00/**             |
-| Files to turn in:  | **upcase_it.py**           |
-| Allowed functions: | **Todas**             |
+|:-------------------|:---------------------|
+| Turn-in directory: | **ex00/**            |
+| Files to turn in:  | **upcase_it.py**     |
+| Allowed functions: | **Todas**            |
 
 - Crea un programa llamado **upcase_it.py**.
 - Asegúrate de que este programa sea ejecutable (presta atención a los permisos).

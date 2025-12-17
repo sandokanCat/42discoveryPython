@@ -17,8 +17,8 @@ password = "Python is awesome"
 ```
 
 - When executed, the program should prompt the user to enter a password.
-- If the password is correct, the program should display: "ACCESS GRANTED".
-- If the password is incorrect, the program should display: "ACCESS DENIED".
+- If the password is correct, the program should display: `ACCESS GRANTED`.
+- If the password is incorrect, the program should display: `ACCESS DENIED`.
 
 ```shell
 ?> ./password.py
@@ -52,8 +52,8 @@ password = "Python is awesome"
 ```
 
 - Al ejecutarlo, el programa debe pedir al usuario que ingrese una contraseña.
-- Si la contraseña es correcta, el programa debe mostrar: "ACCESS GRANTED".
-- Si la contraseña es incorrecta, el programa debe mostrar: "ACCESS DENIED".
+- Si la contraseña es correcta, el programa debe mostrar: `ACCESS GRANTED`.
+- Si la contraseña es incorrecta, el programa debe mostrar: `ACCESS DENIED`.
 
 ```shell
 ?> ./password.py

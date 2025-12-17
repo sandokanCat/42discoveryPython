@@ -11,8 +11,8 @@
 - Create a program called **i_got_that.py**.
 - Ensure this program is executable.
 - The program should:
-  - Use a `while` loop that continuously accepts user input and responds with "I got that! Anything else?" after each input.
-  - The loop should only stop when the user enters "STOP".
+  - Use a `while` loop that continuously accepts user input and responds with `I got that! Anything else?` after each input.
+  - The loop should only stop when the user enters `STOP`.
 
 ```shell
 ?> ./i_got_that.py
@@ -41,8 +41,8 @@ I got that! Anything else? : STOP
 - Crea un programa llamado **i_got_that.py**.
 - Asegúrate de que este programa sea ejecutable.
 - El programa debe:
-  - Utilizar un bucle `while` que acepte continuamente la entrada del usuario y responda con "I got that! Anything else?" después de cada entrada.
-  - El bucle solo debe detenerse cuando el usuario ingrese "STOP".
+  - Utilizar un bucle `while` que acepte continuamente la entrada del usuario y responda con `I got that! Anything else?` después de cada entrada.
+  - El bucle solo debe detenerse cuando el usuario ingrese `STOP`.
 
 ```shell
 ?> ./i_got_that.py
