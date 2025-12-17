@@ -1,0 +1,16 @@
+# 42 Barcelona | Discovery Piscine
+
+## 🇬🇧 Module3 - Python
+
+* Direct link to the [original PDF](https://cdn.intra.42.fr/pdf/pdf/178116/en.subject.pdf).
+
+---
+
+<details>
+<summary>🇪🇸 Español</summary>
+
+## Módulo3 - Python
+
+* Enlace directo al [PDF original](https://cdn.intra.42.fr/pdf/pdf/178117/es.subject.pdf).
+
+</details>
