@@ -2,11 +2,11 @@
 
 ## 🇬🇧 Module1 - Python
 
-| Exercise 00:       | *Displaying a name* |
-|:-------------------|:--------------------|
-| Turn-in directory: | **ex00/**           |
-| Files to turn in:  | **name.py**         |
-| Allowed functions: | **All**             |
+| Exercise 00: | *Displaying a name* |
+|:-|:-|
+| Turn-in directory: | **ex00/** |
+| Files to turn in: | **name.py** |
+| Allowed functions: | **All** |
 
 - Create a script called **name.py**.
 - Define a variable named `first_name` and initialize it with your first name.
@@ -26,11 +26,11 @@ Arthur Dent$
 
 ## Módulo1 - Python
 
-| Ejercicio 00:          | *Mostrar un nombre* |
-|:-----------------------|:--------------------|
-| Directorio de entrega: | **ex00/**           |
-| Archivos a entregar:   | **name.py**         |
-| Funciones autorizadas: | **Todas**           |
+| Ejercicio 00: | *Mostrar un nombre* |
+|:-|:-|
+| Directorio de entrega: | **ex00/** |
+| Archivos a entregar: | **name.py** |
+| Funciones autorizadas: | **Todas** |
 
 - Crea un script llamado **name.py**.
 - Define una variable llamada `first_name` e inicialízala con tu primer nombre.

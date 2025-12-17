@@ -2,11 +2,11 @@
 
 ## 🇬🇧 Module3 - Python
 
-| Exercise 03:       | *The return of multiplication tables* |
-|:-------------------|:--------------------------------------|
-| Turn-in directory: | **ex03/**                             |
-| Files to turn in:  | **advanced_mult.py**                  |
-| Allowed functions: | **All**                               |
+| Exercise 03: | *The return of multiplication tables* |
+|:-|:-|
+| Turn-in directory: | **ex03/** |
+| Files to turn in: | **advanced_mult.py** |
+| Allowed functions: | **All** |
 
 - Create a program called **advanced_mult.py**.
 - Ensure this program is executable.
@@ -38,11 +38,11 @@ Table of 10: 0 10 20 30 40 50 60 70 80 90 100
 
 ## Módulo3 - Python
 
-| Exercise 03:       | *El regreso de las tablas de multiplicar* |
-|:-------------------|:------------------------------------------|
-| Turn-in directory: | **ex03/**                                 |
-| Files to turn in:  | **advanced_mult.py**                      |
-| Allowed functions: | **Todas**                                 |
+| Ejercicio 03:-| *El regreso de las tablas de multiplicar* |
+|:-|:-|
+| Directorio de entrega: | **ex03/** |
+| Archivos a entregar: | **advanced_mult.py** |
+| Funciones autorizadas: | **Todas** |
 
 - Crea un programa llamado **advanced_mult.py**.
 - Asegúrate de que este programa sea ejecutable.

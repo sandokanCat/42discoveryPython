@@ -2,11 +2,11 @@
 
 ## 🇬🇧 Module5 - Python
 
-| Exercise 04:       | *Yes, but how many?* |
-|:-------------------|:---------------------|
-| Turn-in directory: | **ex04/**            |
-| Files to turn in:  | **parameters.py**    |
-| Allowed functions: | **All**              |
+| Exercise 04: | *Yes, but how many?* |
+|:-|:-|
+| Turn-in directory: | **ex04/** |
+| Files to turn in: | **parameters.py** |
+| Allowed functions: | **All** |
 
 - Create a program called **parameters.py**.
 - Ensure this program is executable.
@@ -31,11 +31,11 @@ Number of parameters: 5.
 
 ## Módulo5 - Python
 
-| Exercise 04:       | *¿Sí, pero cuántos?* |
-|:-------------------|:---------------------|
-| Turn-in directory: | **ex04/**            |
-| Files to turn in:  | **parameters.py**    |
-| Allowed functions: | **Todas**            |
+| Ejercicio 04: | *¿Sí, pero cuántos?* |
+|:-|:-|
+| Directorio de entrega: | **ex04/** |
+| Archivos a entregar: | **parameters.py** |
+| Funciones autorizadas: | **Todas** |
 
 - Crea un programa llamado **parameters.py**.
 - Asegúrate de que este programa sea ejecutable.

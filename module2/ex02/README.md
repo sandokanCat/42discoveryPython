@@ -2,11 +2,11 @@
 
 ## 🇬🇧 Module2 - Python
 
-| Exercise 02:       | *Access denied* |
-|:-------------------|:----------------|
-| Turn-in directory: | **ex02/**       |
-| Files to turn in:  | **password.py** |
-| Allowed functions: | **All**         |
+| Exercise 02: | *Access denied* |
+|:-|:-|
+| Turn-in directory: | **ex02/** |
+| Files to turn in: | **password.py** |
+| Allowed functions: | **All** |
 
 - Create a program called **password.py**.
 - Ensure this program is executable.
@@ -37,11 +37,11 @@ ACCESS GRANTED
 
 ## Módulo2 - Python
 
-| Exercise 02:       | *Acceso denegado* |
-|:-------------------|:------------------|
-| Turn-in directory: | **ex02/**         |
-| Files to turn in:  | **password.py**   |
-| Allowed functions: | **Todas**         |
+| Ejercicio 02: | *Acceso denegado* |
+|:-|:-|
+| Directorio de entrega: | **ex02/** |
+| Archivos a entregar: | **password.py** |
+| Funciones autorizadas: | **Todas** |
 
 - Crea un programa llamado **password.py**.
 - Asegúrate de que este programa sea ejecutable.

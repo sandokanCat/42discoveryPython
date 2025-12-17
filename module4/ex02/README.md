@@ -2,11 +2,11 @@
 
 ## 🇬🇧 Module4 - Python
 
-| Exercise 02:       | *Performing Basic Operations* |
-|:-------------------|:------------------------------|
-| Turn-in directory: | **ex02/**                     |
-| Files to turn in:  | **calculator.py**             |
-| Allowed functions: | **All**                       |
+| Exercise 02: | *Performing Basic Operations* |
+|:-|:-|
+| Turn-in directory: | **ex02/** |
+| Files to turn in: | **calculator.py** |
+| Allowed functions: | **All** |
 
 - Create a program called **calculator.py**.
 - Ensure this program is executable.
@@ -34,11 +34,11 @@ Thank you!
 
 ## Módulo4 - Python
 
-| Exercise 02:       | *Realizando Operaciones Básicas* |
-|:-------------------|:---------------------------------|
-| Turn-in directory: | **ex02/**                        |
-| Files to turn in:  | **calculator.py**                |
-| Allowed functions: | **Todas**                        |
+| Ejercicio 02: | *Realizando Operaciones Básicas* |
+|:-|:-|
+| Directorio de entrega: | **ex02/** |
+| Archivos a entregar: | **calculator.py** |
+| Funciones autorizadas: | **Todas** |
 
 - Crea un programa llamado **calculator.py**.
 - Asegúrate de que este programa sea ejecutable.

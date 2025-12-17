@@ -2,11 +2,11 @@
 
 ## 🇬🇧 Module5 - Python
 
-| Exercise 03:       | *Manipulating Arrays, Still!* |
-|:-------------------|:------------------------------|
-| Turn-in directory: | **ex03/**                     |
-| Files to turn in:  | **play_with_arrays.py**       |
-| Allowed functions: | **All**                       |
+| Exercise 03: | *Manipulating Arrays, Still!* |
+|:-|:-|
+| Turn-in directory: | **ex03/** |
+| Files to turn in: | **play_with_arrays.py** |
+| Allowed functions: | **All** |
 
 - Modify your previous program to remove duplicates in the output. You should not explicitly remove values from your arrays.
 - For this exercise, the use of **Set** is mandatory.
@@ -28,11 +28,11 @@
 
 ## Módulo5 - Python
 
-| Exercise 03:       | *Manipulando arrays, una vez más* |
-|:-------------------|:----------------------------------|
-| Turn-in directory: | **ex03/**                         |
-| Files to turn in:  | **play_with_arrays.py**           |
-| Allowed functions: | **Todas**                         |
+| Ejercicio 03: | *Manipulando arrays, una vez más* |
+|:-|:-|
+| Directorio de entrega: | **ex03/** |
+| Archivos a entregar: | **play_with_arrays.py** |
+| Funciones autorizadas: | **Todas** |
 
 - Modifica tu programa anterior para eliminar los duplicados en el resultado. No debes eliminar explícitamente los valores de tus arrays.
 - Para este ejercicio, el uso de **Set** es obligatorio.

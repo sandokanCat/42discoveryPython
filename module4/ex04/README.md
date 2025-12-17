@@ -2,11 +2,11 @@
 
 ## 🇬🇧 Module4 - Python
 
-| Exercise 04:       | *I Don’t Like Commas* |
-|:-------------------|:----------------------|
-| Turn-in directory: | **ex04/**             |
-| Files to turn in:  | **round_up.py**       |
-| Allowed functions: | **All**               |
+| Exercise 04: | *I Don’t Like Commas* |
+|:-|:-|
+| Turn-in directory: | **ex04/** |
+| Files to turn in: | **round_up.py** |
+| Allowed functions: | **All** |
 
 - Create a program called **round_up.py**.
 - Ensure this program is executable.
@@ -36,11 +36,11 @@ Give me a number: 0.001
 
 ## Módulo4 - Python
 
-| Exercise 04:       | *No Me Gustan las Comas* |
-|:-------------------|:-------------------------|
-| Turn-in directory: | **ex04/**                |
-| Files to turn in:  | **round_up.py**          |
-| Allowed functions: | **Todas**                |
+| Ejercicio 04: | *No Me Gustan las Comas* |
+|:-|:-|
+| Directorio de entrega: | **ex04/** |
+| Archivos a entregar: | **round_up.py** |
+| Funciones autorizadas: | **Todas** |
 
 - Crea un programa llamado **round_up.py**.
 - Asegúrate de que este programa sea ejecutable.

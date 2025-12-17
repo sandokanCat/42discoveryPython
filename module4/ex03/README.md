@@ -2,11 +2,11 @@
 
 ## 🇬🇧 Module4 - Python
 
-| Exercise 03:       | *Working with Floating-Point Numbers* |
-|:-------------------|:--------------------------------------|
-| Turn-in directory: | **ex03/**                             |
-| Files to turn in:  | **float.py**                          |
-| Allowed functions: | **All**                               |
+| Exercise 03: | *Working with Floating-Point Numbers* |
+|:-|:-|
+| Turn-in directory: | **ex03/** |
+| Files to turn in: | **float.py** |
+| Allowed functions: | **All** |
 
 - Create a program called **float.py**.
 - Ensure this program is executable.
@@ -38,11 +38,11 @@ This number is a decimal.
 
 ## Módulo4 - Python
 
-| Exercise 03:       | *Manejando números de coma flotante* |
-|:-------------------|:-------------------------------------|
-| Turn-in directory: | **ex03/**                            |
-| Files to turn in:  | **float.py**                         |
-| Allowed functions: | **Todas**                            |
+| Ejercicio 03: | *Manejando números de coma flotante* |
+|:-|:-|
+| Directorio de entrega: | **ex03/** |
+| Archivos a entregar: | **float.py** |
+| Funciones autorizadas: | **Todas** |
 
 - Crea un programa llamado **float.py**.
 - Asegúrate de que este programa sea ejecutable.

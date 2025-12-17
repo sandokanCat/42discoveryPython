@@ -2,11 +2,11 @@
 
 ## 🇬🇧 Module0 - Python
 
-| Exercise 01:       | *My first script* |
-|:-------------------|:------------------|
-| Turn-in directory: | **ex01/**         |
-| Files to turn in:  | **42.py**         |
-| Allowed functions: | **All**           |
+| Exercise 01: | *My first script* |
+|:-|:-|
+| Turn-in directory: | **ex01/** |
+| Files to turn in: | **42.py** |
+| Allowed functions: | **All** |
 
 - Create a script named **42.py**.
 - When executed, the script should display `42` followed by a newline.
@@ -26,11 +26,11 @@
 
 ## Módulo0 - Python
 
-| Ejercicio 01:          | *Mi primer script* |
-|:-----------------------|:-------------------|
-| Directorio de entrega: | **ex01/**          |
-| Archivos a entregar:   | **42.py**          |
-| Funciones autorizadas: | **Todas**          |
+| Ejercicio 01: | *Mi primer script* |
+|:-|:-|
+| Directorio de entrega: | **ex01/** |
+| Archivos a entregar: | **42.py** |
+| Funciones autorizadas: | **Todas** |
 
 - Crea un script llamado **42.py**.
 - Cuando se ejecute, el script debe mostrar `42` seguido de un salto de línea.

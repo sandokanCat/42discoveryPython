@@ -2,11 +2,11 @@
 
 ## 🇬🇧 Module5 - Python
 
-| Exercise 02:       | *Manipulating arrays, once again* |
-|:-------------------|:----------------------------------|
-| Turn-in directory: | **ex02/**                         |
-| Files to turn in:  | **play_with_arrays.py**           |
-| Allowed functions: | **All**                           |
+| Exercise 02: | *Manipulating arrays, once again* |
+|:-|:-|
+| Turn-in directory: | **ex02/** |
+| Files to turn in: | **play_with_arrays.py** |
+| Allowed functions: | **All** |
 
 - Modify your previous program to process only the values greater than 5 in the original array.
 - For example, if your original array is `[2, 8, 9, 48, 8, 22, -12, 2]`, the output should be:
@@ -25,11 +25,11 @@
 
 ## Módulo5 - Python
 
-| Exercise 02:       | *Manipulando arrays, una vez más* |
-|:-------------------|:----------------------------------|
-| Turn-in directory: | **ex02/**                         |
-| Files to turn in:  | **play_with_arrays.py**           |
-| Allowed functions: | **Todas**                         |
+| Ejercicio 02: | *Manipulando arrays, una vez más* |
+|:-|:-|
+| Directorio de entrega: | **ex02/** |
+| Archivos a entregar: | **play_with_arrays.py** |
+| Funciones autorizadas: | **Todas** |
 
 - Modifica tu programa anterior para procesar solo los valores mayores a 5 en el array original.
 - Por ejemplo, si tu array original es `[2, 8, 9, 48, 8, 22, -12, 2]`, el resultado debería ser:

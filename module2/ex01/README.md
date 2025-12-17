@@ -2,11 +2,11 @@
 
 ## 🇬🇧 Module2 - Python
 
-| Exercise 01:       | *Am I Negative?* |
-|:-------------------|:-----------------|
-| Turn-in directory: | **ex01/**        |
-| Files to turn in:  | **isneg.py**     |
-| Allowed functions: | **All**          |
+| Exercise 01: | *Am I Negative?* |
+|:-|:-|
+| Turn-in directory: | **ex01/** |
+| Files to turn in: | **isneg.py** |
+| Allowed functions: | **All** |
 
 - Create a program called **isneg.py**.
 - Ensure this program is executable.
@@ -35,11 +35,11 @@ This number is both positive and negative.
 
 ## Módulo2 - Python
 
-| Exercise 01:       | *¿Soy Negativo?* |
-|:-------------------|:-----------------|
-| Turn-in directory: | **ex01/**        |
-| Files to turn in:  | **isneg.py**     |
-| Allowed functions: | **Todas**        |
+| Ejercicio 01: | *¿Soy Negativo?* |
+|:-|:-|
+| Directorio de entrega: | **ex01/** |
+| Archivos a entregar: | **isneg.py** |
+| Funciones autorizadas: | **Todas** |
 
 - Crea un programa llamado **isneg.py**.
 - Asegúrate de que este programa sea ejecutable.

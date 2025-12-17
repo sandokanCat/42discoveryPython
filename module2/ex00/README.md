@@ -2,11 +2,11 @@
 
 ## 🇬🇧 Module2 - Python
 
-| Exercise 00:       | *Am I Null?*  |
-|:-------------------|:--------------|
-| Turn-in directory: | **ex00/**     |
-| Files to turn in:  | **iszero.py** |
-| Allowed functions: | **All**       |
+| Exercise 00: | *Am I Null?* |
+|:-|:-|
+| Turn-in directory: | **ex00/** |
+| Files to turn in: | **iszero.py** |
+| Allowed functions: | **All** |
 
 - Create a program called **iszero.py**.
 - Ensure this program is executable (pay attention to the file permissions).
@@ -33,11 +33,11 @@ This number is equal to zero.
 
 ## Módulo2 - Python
 
-| Exercise 00:       | *¿Soy Null?*  |
-|:-------------------|:--------------|
-| Turn-in directory: | **ex00/**     |
-| Files to turn in:  | **iszero.py** |
-| Allowed functions: | **Todas**     |
+| Ejercicio 00: | *¿Soy Null?* |
+|:-|:-|
+| Directorio de entrega: | **ex00/** |
+| Archivos a entregar: | **iszero.py** |
+| Funciones autorizadas: | **Todas** |
 
 - Crea un programa llamado **iszero.py**.
 - Asegúrate de que este programa sea ejecutable (presta atención a los permisos del archivo).

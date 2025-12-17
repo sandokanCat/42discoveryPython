@@ -2,11 +2,11 @@
 
 ## 🇬🇧 Module0 - Python
 
-| Exercise 00:       | *The basic* |
-|:-------------------|:------------|
-| Turn-in directory: | **ex00/**   |
-| Files to turn in:  | **None**    |
-| Allowed functions: | **None**    |
+| Exercise 00: | *The basic* |
+|:-|:-|
+| Turn-in directory: | **ex00/** |
+| Files to turn in: | **None** |
+| Allowed functions: | **None** |
 
 - Create a folder named **discovery_piscine** at the root of your home directory, and navigate into it.
 - Create a new folder named **module0** and move into that folder.
@@ -22,10 +22,10 @@
 
 ## Módulo0 - Python
 
-| Ejercicio 00:          | *Lo básico* |
-|:-----------------------|:------------|
-| Directorio de entrega: | **ex00/**   |
-| Archivos a entregar:   | **Ninguno** |
+| Ejercicio 00: | *Lo básico* |
+|:-|:-|
+| Directorio de entrega: | **ex00/** |
+| Archivos a entregar: | **Ninguno** |
 | Funciones autorizadas: | **Ninguna** |
 
 - Crea una carpeta llamada **discovery_piscine** en la raíz de tu directorio personal y navega dentro de ella.

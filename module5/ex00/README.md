@@ -2,11 +2,11 @@
 
 ## 🇬🇧 Module5 - Python
 
-| Exercise 00:       | *Create an array*   |
-|:-------------------|:--------------------|
-| Turn-in directory: | **ex00/**           |
-| Files to turn in:  | **create_array.py** |
-| Allowed functions: | **All**             |
+| Exercise 00: | *Create an array* |
+|:-|:-|
+| Turn-in directory: | **ex00/** |
+| Files to turn in: | **create_array.py** |
+| Allowed functions: | **All** |
 
 - Create a program called **create_array.py**.
 - Ensure this program is executable.
@@ -26,11 +26,11 @@
 
 ## Módulo5 - Python
 
-| Exercise 00:       | *Crear un array*    |
-|:-------------------|:--------------------|
-| Turn-in directory: | **ex00/**           |
-| Files to turn in:  | **create_array.py** |
-| Allowed functions: | **Todas**           |
+| Ejercicio 00: | *Crear un array* |
+|:-|:-|
+| Directorio de entrega: | **ex00/** |
+| Archivos a entregar: | **create_array.py** |
+| Funciones autorizadas: | **Todas** |
 
 - Crea un programa llamado **create_array.py**.
 - Asegúrate de que este programa sea ejecutable.

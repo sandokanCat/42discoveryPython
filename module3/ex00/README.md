@@ -2,11 +2,11 @@
 
 ## 🇬🇧 Module3 - Python
 
-| Exercise 00:       | *Let’s go up to 25!* |
-|:-------------------|:---------------------|
-| Turn-in directory: | **ex00/**            |
-| Files to turn in:  | **to25.py**          |
-| Allowed functions: | **All**              |
+| Exercise 00: | *Let’s go up to 25!* |
+|:-|:-|
+| Turn-in directory: | **ex00/** |
+| Files to turn in: | **to25.py** |
+| Allowed functions: | **All** |
 
 - Create a program called **to25.py**.
 - Ensure this program is executable.
@@ -41,11 +41,11 @@ Inside the loop, my variable is 25
 
 ## Módulo3 - Python
 
-| Exercise 00:       | *¡Vamos hasta el 25!* |
-|:-------------------|:----------------------|
-| Turn-in directory: | **ex00/**             |
-| Files to turn in:  | **to25.py**           |
-| Allowed functions: | **Todas**             |
+| Ejercicio 00: | *¡Vamos hasta el 25!* |
+|:-|:-|
+| Directorio de entrega: | **ex00/** |
+| Archivos a entregar: | **to25.py** |
+| Funciones autorizadas: | **Todas** |
 
 - Crea un programa llamado **to25.py**.
 - Asegúrate de que este programa sea ejecutable.

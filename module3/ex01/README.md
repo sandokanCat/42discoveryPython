@@ -2,11 +2,11 @@
 
 ## 🇬🇧 Module3 - Python
 
-| Exercise 01:       | *The return of multiplication tables* |
-|:-------------------|:--------------------------------------|
-| Turn-in directory: | **ex01/**                             |
-| Files to turn in:  | **multiplication_table.py**           |
-| Allowed functions: | **All**                               |
+| Exercise 01: | *The return of multiplication tables* |
+|:-|:-|
+| Turn-in directory: | **ex01/** |
+| Files to turn in: | **multiplication_table.py** |
+| Allowed functions: | **All** |
 
 - Create a program called **multiplication_table.py**.
 - Ensure this program is executable.
@@ -38,11 +38,11 @@ Enter a number
 
 ## Módulo3 - Python
 
-| Exercise 01:       | *El regreso de las tablas de multiplicar* |
-|:-------------------|:------------------------------------------|
-| Turn-in directory: | **ex01/**                                 |
-| Files to turn in:  | **multiplication_table.py**               |
-| Allowed functions: | **Todas**                                 |
+| Ejercicio 01: | *El regreso de las tablas de multiplicar* |
+|:-|:-|
+| Directorio de entrega: | **ex01/** |
+| Archivos a entregar: | **multiplication_table.py** |
+| Funciones autorizadas: | **Todas** |
 
 - Crea un programa llamado **multiplication_table.py**.
 - Asegúrate de que este programa sea ejecutable.

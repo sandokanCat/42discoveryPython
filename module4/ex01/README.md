@@ -2,11 +2,11 @@
 
 ## 🇬🇧 Module4 - Python
 
-| Exercise 01:       | *Retrieve and Modify a Number* |
-|:-------------------|:-------------------------------|
-| Turn-in directory: | **ex01/**                      |
-| Files to turn in:  | **age.py**                     |
-| Allowed functions: | **All**                        |
+| Exercise 01: | *Retrieve and Modify a Number* |
+|:-|:-|
+| Turn-in directory: | **ex01/** |
+| Files to turn in: | **age.py** |
+| Allowed functions: | **All** |
 
 - Create a program called **age.py**.
 - Ensure this program is executable.
@@ -33,11 +33,11 @@ In 30 years, you'll be 45 years old.
 
 ## Módulo4 - Python
 
-| Exercise 01:       | *Obtener y Modificar un Número* |
-|:-------------------|:--------------------------------|
-| Turn-in directory: | **ex01/**                       |
-| Files to turn in:  | **age.py**                      |
-| Allowed functions: | **Todas**                       |
+| Ejercicio 01: | *Obtener y Modificar un Número* |
+|:-|:-|
+| Directorio de entrega: | **ex01/** |
+| Archivos a entregar: | **age.py** |
+| Funciones autorizadas: | **Todas** |
 
 - Crea un programa llamado **age.py**.
 - Asegúrate de que este programa sea ejecutable.

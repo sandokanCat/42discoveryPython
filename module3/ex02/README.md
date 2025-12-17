@@ -2,11 +2,11 @@
 
 ## 🇬🇧 Module3 - Python
 
-| Exercise 02:       | *Do you got it?*  |
-|:-------------------|:------------------|
-| Turn-in directory: | **ex02/**         |
-| Files to turn in:  | **i_got_that.py** |
-| Allowed functions: | **All**           |
+| Exercise 02: | *Do you got it?* |
+|:-|:-|
+| Turn-in directory: | **ex02/** |
+| Files to turn in: | **i_got_that.py** |
+| Allowed functions: | **All** |
 
 - Create a program called **i_got_that.py**.
 - Ensure this program is executable.
@@ -32,11 +32,11 @@ I got that! Anything else? : STOP
 
 ## Módulo3 - Python
 
-| Exercise 02:       | *¿Lo tienes?*     |
-|:-------------------|:------------------|
-| Turn-in directory: | **ex02/**         |
-| Files to turn in:  | **i_got_that.py** |
-| Allowed functions: | **Todas**         |
+| Ejercicio 02: | *¿Lo tienes?* |
+|:-|:-|
+| Directorio de entrega: | **ex02/** |
+| Archivos a entregar: | **i_got_that.py** |
+| Funciones autorizadas: | **Todas** |
 
 - Crea un programa llamado **i_got_that.py**.
 - Asegúrate de que este programa sea ejecutable.

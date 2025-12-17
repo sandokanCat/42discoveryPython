@@ -2,11 +2,11 @@
 
 ## 🇬🇧 Module4 - Python
 
-| Exercise 05:       | *The Merge of Uppercase and Lowercase* |
-|:-------------------|:---------------------------------------|
-| Turn-in directory: | **ex05/**                              |
-| Files to turn in:  | **up_low.py**                          |
-| Allowed functions: | **All**                                |
+| Exercise 05: | *The Merge of Uppercase and Lowercase* |
+|:-|:-|
+| Turn-in directory: | **ex05/** |
+| Files to turn in: | **up_low.py** |
+| Allowed functions: | **All** |
 
 - Create a program called **up_low.py**.
 - Ensure this program is executable.
@@ -36,11 +36,11 @@ HELLO 42
 
 ## Módulo4 - Python
 
-| Exercise 05:       | *La Fusión de Mayúsculas y Minúsculas* |
-|:-------------------|:---------------------------------------|
-| Turn-in directory: | **ex05/**                              |
-| Files to turn in:  | **up_low.py**                          |
-| Allowed functions: | **Todas**                              |
+| Ejercicio 05: | *La Fusión de Mayúsculas y Minúsculas* |
+|:-|:-|
+| Directorio de entrega: | **ex05/** |
+| Archivos a entregar: | **up_low.py** |
+| Funciones autorizadas: | **Todas** |
 
 - Crea un programa llamado **up_low.py**.
 - Asegúrate de que este programa sea ejecutable.

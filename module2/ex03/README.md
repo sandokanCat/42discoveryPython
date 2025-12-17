@@ -2,11 +2,11 @@
 
 ## 🇬🇧 Module2 - Python
 
-| Exercise 03:       | *Multiplication* |
-|:-------------------|:-----------------|
-| Turn-in directory: | **ex03/**        |
-| Files to turn in:  | **mult.py**      |
-| Allowed functions: | **All**          |
+| Exercise 03: | *Multiplication* |
+|:-|:-|
+| Turn-in directory: | **ex03/** |
+| Files to turn in: | **mult.py** |
+| Allowed functions: | **All** |
 
 - Create a program called **mult.py**.
 - Ensure this program is executable.
@@ -46,11 +46,11 @@ The result is positive and negative.
 
 ## Módulo2 - Python
 
-| Exercise 03:       | *Multiplicación* |
-|:-------------------|:-----------------|
-| Turn-in directory: | **ex03/**        |
-| Files to turn in:  | **mult.py**      |
-| Allowed functions: | **Todas**        |
+| Ejercicio 03: | *Multiplicación* |
+|:-|:-|
+| Directorio de entrega: | **ex03/** |
+| Archivos a entregar: | **mult.py** |
+| Funciones autorizadas: | **Todas** |
 
 - Crea un programa llamado **mult.py**.
 - Asegúrate de que este programa sea ejecutable.

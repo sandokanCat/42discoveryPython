@@ -2,11 +2,11 @@
 
 ## 🇬🇧 Module5 - Python
 
-| Exercise 01:       | *Manipulating arrays*   |
-|:-------------------|:------------------------|
-| Turn-in directory: | **ex01/**               |
-| Files to turn in:  | **play_with_arrays.py** |
-| Allowed functions: | **All**                 |
+| Exercise 01: | *Manipulating arrays* |
+|:-|:--|
+| Turn-in directory: | **ex01/** |
+| Files to turn in: | **play_with_arrays.py** |
+| Allowed functions: | **All** |
 
 - Create a program called **play_with_arrays.py**.
 - Ensure this program is executable.
@@ -31,11 +31,11 @@ New array: [4, 10, 11, 50, 10, 24, -10, 4]
 
 ## Módulo5 - Python
 
-| Exercise 01:       | *Manipulando array*     |
-|:-------------------|:------------------------|
-| Turn-in directory: | **ex01/**               |
-| Files to turn in:  | **play_with_arrays.py** |
-| Allowed functions: | **Todas**               |
+| Ejercicio 01: | *Manipulando array* |
+|:-|:--|
+| Directorio de entrega: | **ex01/** |
+| Archivos a entregar: | **play_with_arrays.py** |
+| Funciones autorizadas: | **Todas** |
 
 - Crea un programa llamado **play_with_arrays.py**.
 - Asegúrate de que este programa sea ejecutable.

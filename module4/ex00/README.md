@@ -2,11 +2,11 @@
 
 ## 🇬🇧 Module4 - Python
 
-| Exercise 00:       | *See it in Capital* |
-|:-------------------|:--------------------|
-| Turn-in directory: | **ex00/**           |
-| Files to turn in:  | **upcase_it.py**    |
-| Allowed functions: | **All**             |
+| Exercise 00: | *See it in Capital* |
+|:-|:-|
+| Turn-in directory: | **ex00/** |
+| Files to turn in: | **upcase_it.py** |
+| Allowed functions: | **All** |
 
 - Create a program called **upcase_it.py**.
 - Ensure this program is executable (pay attention to permissions).
@@ -31,11 +31,11 @@ BANANA
 
 ## Módulo4 - Python
 
-| Exercise 00:       | *Velo en Mayúsculas* |
-|:-------------------|:---------------------|
-| Turn-in directory: | **ex00/**            |
-| Files to turn in:  | **upcase_it.py**     |
-| Allowed functions: | **Todas**            |
+| Ejercicio 00: | *Velo en Mayúsculas* |
+|:-|:-|
+| Directorio de entrega: | **ex00/** |
+| Archivos a entregar: | **upcase_it.py** |
+| Funciones autorizadas: | **Todas** |
 
 - Crea un programa llamado **upcase_it.py**.
 - Asegúrate de que este programa sea ejecutable (presta atención a los permisos).

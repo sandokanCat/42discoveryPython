@@ -2,11 +2,11 @@
 
 ## 🇬🇧 Module1 - Python
 
-| Exercise 01:       | *Displaying a name, improved* |
-|:-------------------|:------------------------------|
-| Turn-in directory: | **ex01/**                     |
-| Files to turn in:  | **name.py**                   |
-| Allowed functions: | **All**                       |
+| Exercise 01: | *Displaying a name, improved* |
+|:-|:-|
+| Turn-in directory: | **ex01/** |
+| Files to turn in: | **name.py** |
+| Allowed functions: | **All** |
 
 - Modify your script **name.py**. (Remember to copy it to the correct submission directory first!)
 - Update your script to concatenate your first name and last name, assigning the result to a new variable called `whole_name`.
@@ -28,11 +28,11 @@ Arthur Dent$
 
 ## Módulo1 - Python
 
-| Ejercicio 01:          | *Mostrar un nombre, mejorado* |
-|:-----------------------|:------------------------------|
-| Directorio de entrega: | **ex01/**                     |
-| Archivos a entregar:   | **name.py**                   |
-| Funciones autorizadas: | **Todas**                     |
+| Ejercicio 01: | *Mostrar un nombre, mejorado* |
+|:-|:-|
+| Directorio de entrega: | **ex01/** |
+| Archivos a entregar: | **name.py** |
+| Funciones autorizadas: | **Todas** |
 
 - Modifica tu script **name.py**. (¡Recuerda copiarlo primero al directorio de entrega correcto!)
 - Actualiza tu script para concatenar tu primer nombre y tu apellido, asignando el resultado a una nueva variable llamada `whole_name`.
