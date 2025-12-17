@@ -2,7 +2,7 @@
 
 ## 🇬🇧 Module0 - Python
 
-| Exercise 00:       | *The Basic* |
+| Exercise 00:       | *The basic* |
 |:-------------------|:------------|
 | Turn-in directory: | **ex00/**   |
 | Files to turn in:  | **None**    |
