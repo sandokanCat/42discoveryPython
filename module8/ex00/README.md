@@ -55,6 +55,6 @@ Hello, everyone!
 ?>
 ```
 
-> 💡 usca "method definition in Python".
+> 💡 Busca "method definition in Python".
 
 </details>

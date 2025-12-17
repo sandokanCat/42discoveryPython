@@ -24,7 +24,7 @@ greetings()
 greetings(42)
 ```
 
-will produce the following output:
+Will produce the following output:
 
 ```shell
 ?> ./greetings_for_all.py | cat -e
@@ -64,7 +64,7 @@ greetings()
 greetings(42)
 ```
 
-producirá la siguiente salida:
+Producirá la siguiente salida:
 
 ```shell
 ?> ./greetings_for_all.py | cat -e
