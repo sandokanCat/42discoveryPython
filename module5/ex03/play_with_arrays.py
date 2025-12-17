@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
 
-array = [2, 8, 9, 48, 8, 22, -12, 2]
+# FILTER AND INCREMENT ARRAY USING SET TO REMOVE DUPLICATES
 
+array = [2, 8, 9, 48, 8, 22, -12, 2]  # ORIGINAL ARRAY
+
+# ADD 2 ONLY TO ELEMENTS GREATER THAN 5 AND REMOVE DUPLICATES
 new_array = {x + 2 for x in array if x > 5}
 
-print(array)
-print(new_array)
+print(array)      # SHOW ORIGINAL ARRAY
+print(new_array)  # SHOW FILTERED, UPDATED, AND UNIQUE VALUES

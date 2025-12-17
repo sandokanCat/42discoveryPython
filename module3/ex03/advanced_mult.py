@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
 
-i = 0
-while i <= 10:
-    print(f'Table of {i}:', end=' ')
+# MULTIPLICATION TABLE 0 TO 10
 
-    j = 0
-    while j <= 10:
-        print(i * j, end=' ')
-        j += 1
+r = 0
+while r <= 10:  # OUTER LOOP FOR ROWS
+    print(f'Table of {r}:', end=' ')  # SHOW ROW HEADER
 
-    print()
-    i += 1
+    c = 0
+    while c <= 10:  # INNER LOOP FOR COLUMNS
+        print(r * c, end=' ')  # PRINT MULTIPLICATION
+        c += 1
+
+    print()  # NEWLINE AFTER ROW
+    r += 1  # NEXT ROW

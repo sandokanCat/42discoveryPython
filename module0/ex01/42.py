@@ -1,1 +1,3 @@
+# PRINTS A NUMBER TO THE CONSOLE
+
 print(42)

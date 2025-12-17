@@ -1,12 +1,15 @@
 #!/usr/bin/env python3
 
+# MULTIPLICATION TABLE FROM 0 TO 9
+
 try:
-    user_num = int(input('Enter a number: '))
-    init_num = 0
+    user_num = int(input('Enter a number: '))  # USER INPUT
+    counter = 0  # STARTING NUMBER
 
-    while init_num <= 9:
-        print(str(init_num) + ' x ' + str(user_num) + ' = ' + str(init_num * user_num))
-        init_num += 1
+     # LOOP FROM 0 TO 9
+    while counter <= 9:
+        print(str(counter) + ' x ' + str(user_num) + ' = ' + str(counter * user_num))  # SHOW MULTIPLICATION
+        counter += 1  # INCREMENT COUNTER
 
-except ValueError:
-    print('Enter a valid number!')
+# HANDLE INVALID INPUT
+except ValueError: print('Enter a valid number!')

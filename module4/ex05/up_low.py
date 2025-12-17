@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
-word = input("Give me a word: ")
+# SWAP CASE OF A STRING
 
-print(word.swapcase())
+word = input("Give me a word: ")   # USER INPUT
+
+print(word.swapcase())   # PRINT STRING WITH INVERTED CASE

@@ -1,5 +1,7 @@
-edad_real = 33
-sumar = 42
-my_age = edad_real + sumar
+# ADD TWO NUMBERS AND PRINT THE RESULT
 
-print(my_age)
+real_age = 33
+add_num = 42
+my_age = real_age + add_num  # SUM NUMBERS
+
+print(my_age)  # PRINT SUM

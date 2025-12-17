@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
-word = input("Give me a word: ")
+# DISPLAY WORD IN UPPERCASE
 
-print(word.upper())
+word = input("Give me a word: ")  # USER INPUT
+
+print(word.upper())  # CONVERT AND SHOW IN UPPERCASE

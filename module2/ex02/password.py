@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 
-password = 'Python is awesome'
-user_pass = input('Enter your password: ')
+# SIMPLE PASSWORD CHECK
 
-if user_pass == password:
-    print('ACCESS GRANTED')
-else:
-    print('ACCESS DENIED')
+password = 'Python is awesome'  # SET CORRECT PASSWORD
+user_pass = input('Enter your password: ')  # ASK USER FOR PASSWORD
+
+# CHECK IF INPUT MATCHES PASSWORD
+if user_pass == password: print('ACCESS GRANTED')  # PASSWORD CORRECT
+else: print('ACCESS DENIED')  # PASSWORD INCORRECT
