@@ -14,9 +14,20 @@
 
 ---
 
+## 🛑 Disclaimer
+
 > 📚 This repository is for educational purposes only.  
 > ⚠️ It is not affiliated with, endorsed by, or officially connected to 42 Network or Fundación Telefónica.  
 > 🔒 The author assumes no responsibility for any misuse by third parties.
+
+---
+
+## 🙏 Acknowledgements
+
+[![42 Logo](https://img.shields.io/badge/42-Project-blue?logo=42&style=for-the-badge)](https://www.42barcelona.com)
+[![Fundación Telefónica](https://img.shields.io/badge/Fundación_Telefónica-Educación-orange?style=for-the-badge)](https://www.fundaciontelefonica.com/)
+
+*A special thanks to **42** for its innovative approach to developer training and to the **Fundación Telefónica** for supporting educational and technological initiatives. Their inspiration and resources have been essential for the development of this project.*
 
 ---
 
@@ -41,9 +52,20 @@
 
 ---
 
+## 🛑 Aviso
+
 > 📚 Este repositorio tiene un carácter exclusivamente educativo.  
 > ⚠️ No está afiliado, respaldado ni conectado oficialmente con la red 42 ni con Fundación Telefónica.  
 > 🔒 El autor no se hace responsable del mal uso por parte de terceros.
+
+---
+
+## 🙏 Agradecimientos
+
+[![42 Logo](https://img.shields.io/badge/42-Project-blue?logo=42&style=for-the-badge)](https://www.42barcelona.com)
+[![Fundación Telefónica](https://img.shields.io/badge/Fundación_Telefónica-Educación-orange?style=for-the-badge)](https://www.fundaciontelefonica.com/)
+
+*Un agradecimiento especial a **42** por su enfoque innovador en la formación de desarrolladores y a la **Fundación Telefónica** por su apoyo a iniciativas educativas y tecnológicas. Su inspiración y recursos han sido fundamentales para el desarrollo de este proyecto.*
 
 ---
 
