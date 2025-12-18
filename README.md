@@ -94,3 +94,52 @@
 👤 © 2025 [sandokan.cat](https://sandokan.cat) — Todos los derechos reservados sobre el código fuente.
 
 </details>
+
+<details>
+<summary>🇦🇩 Català</summary>
+
+## ⚖️ Avís Legal
+
+1. Tots els enunciats han estat extrets literalment dels `PDF` originals de [42 Barcelona | Fundación Telefónica](https://www.42barcelona.com/).
+2. Per accedir al material original pot ser necessari estar connectat a la [Intra de 42](https://intra.42.fr).
+3. Si mai no has estat alumne, pots començar la teva aventura registrant la teva [candidatura](https://candidatura.42barcelona.com/users/sign_up).
+
+## 📄 Enunciats dels exercicis
+
+- La **llicència MIT** s’aplica només al codi font escrit per l’autor.
+- Els enunciats dels exercicis continuen sent propietat dels seus respectius titulars.
+
+<div align="center">
+    <a href="https://opensource.org/licenses/MIT">
+        <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
+    </a>
+</div>
+
+---
+
+## 🛑 Avís
+
+> 📚 Aquest repositori té un caràcter exclusivament educatiu.  
+> ⚠️ No està afiliat, recolzat ni connectat oficialment a la xarxa 42 ni a Fundación Telefónica.  
+> 🔒 L’autor no se’n fa responsable per cap mal ús per part de tercers.
+
+---
+
+## 🙏 Agraïments
+
+*Un agraïment especial a **42** pel seu enfocament innovador en la formació de desenvolupadors i a la **Fundación Telefónica** pel suport a iniciatives educatives i tecnològiques. La seva inspiració i recursos han estat essencials per al desenvolupament d’aquest projecte.*
+
+<div align="center">
+    <a href="https://www.42barcelona.com">
+        <img src="https://img.shields.io/badge/42-Project-blue?logo=42&style=for-the-badge" alt="42 Logo">
+    </a>
+    <a href="https://www.fundaciontelefonica.com/">
+        <img src="https://img.shields.io/badge/Fundación_Telefónica-Educación-orange?style=for-the-badge" alt="Fundación Telefónica">
+    </a>
+</div>
+
+---
+
+👤 © 2025 [sandokan.cat](https://sandokan.cat) — Tots els drets reservats sobre el codi font.
+
+</details>
