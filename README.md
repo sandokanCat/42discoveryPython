@@ -8,9 +8,14 @@
 
 ## 📄 Exercise Statements
 
-*The [MIT license](https://opensource.org/licenses/MIT) applies only to the source code written by the author. Exercise statements remain the property of their respective owners.*
+- The **MIT license** applies only to the source code written by the author.
+- Exercise statements remain the property of their respective owners.
 
-![MIT License](https://img.shields.io/badge/license-MIT-green)
+<div align="center">
+    <a href="https://opensource.org/licenses/MIT">
+        <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
+    </a>
+</div>
 
 ---
 
@@ -24,10 +29,16 @@
 
 ## 🙏 Acknowledgements
 
-[![42 Logo](https://img.shields.io/badge/42-Project-blue?logo=42&style=for-the-badge)](https://www.42barcelona.com)
-[![Fundación Telefónica](https://img.shields.io/badge/Fundación_Telefónica-Educación-orange?style=for-the-badge)](https://www.fundaciontelefonica.com/)
-
 *A special thanks to **42** for its innovative approach to developer training and to the **Fundación Telefónica** for supporting educational and technological initiatives. Their inspiration and resources have been essential for the development of this project.*
+
+<div align="center">
+    <a href="https://www.42barcelona.com">
+        <img src="https://img.shields.io/badge/42-Project-blue?logo=42&style=for-the-badge" alt="42 Logo">
+    </a>
+    <a href="https://www.fundaciontelefonica.com/">
+        <img src="https://img.shields.io/badge/Fundación_Telefónica-Educación-orange?style=for-the-badge" alt="Fundación Telefónica">
+    </a>
+</div>
 
 ---
 
@@ -46,9 +57,14 @@
 
 ## 📄 Enunciados de los ejercicios
 
-*La [licencia MIT](https://opensource.org/licenses/MIT) se aplica únicamente al código fuente escrito por el autor. Los enunciados de los ejercicios siguen siendo propiedad de sus respectivos titulares.*
+- La **licencia MIT** se aplica únicamente al código fuente escrito por el autor.
+- Los enunciados de los ejercicios siguen siendo propiedad de sus respectivos titulares.
 
-![MIT License](https://img.shields.io/badge/license-MIT-green)
+<div align="center">
+    <a href="https://opensource.org/licenses/MIT">
+        <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
+    </a>
+</div>
 
 ---
 
@@ -62,10 +78,16 @@
 
 ## 🙏 Agradecimientos
 
-[![42 Logo](https://img.shields.io/badge/42-Project-blue?logo=42&style=for-the-badge)](https://www.42barcelona.com)
-[![Fundación Telefónica](https://img.shields.io/badge/Fundación_Telefónica-Educación-orange?style=for-the-badge)](https://www.fundaciontelefonica.com/)
-
 *Un agradecimiento especial a **42** por su enfoque innovador en la formación de desarrolladores y a la **Fundación Telefónica** por su apoyo a iniciativas educativas y tecnológicas. Su inspiración y recursos han sido fundamentales para el desarrollo de este proyecto.*
+
+<div align="center">
+    <a href="https://www.42barcelona.com">
+        <img src="https://img.shields.io/badge/42-Project-blue?logo=42&style=for-the-badge" alt="42 Logo">
+    </a>
+    <a href="https://www.fundaciontelefonica.com/">
+        <img src="https://img.shields.io/badge/Fundación_Telefónica-Educación-orange?style=for-the-badge" alt="Fundación Telefónica">
+    </a>
+</div>
 
 ---
 
