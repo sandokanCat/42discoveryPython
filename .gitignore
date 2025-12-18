@@ -1,5 +1,6 @@
 # BLOCKED
 *.pdf
+*.png
 
 # ALLOWED
 !*.py

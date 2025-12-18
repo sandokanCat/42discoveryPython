@@ -1,4 +1,4 @@
-# 42 Barcelona | Discovery Piscine
+# 42 Barcelona – PYTHON Discovery Piscine Exercises
 
 ## 🇬🇧 ⚖️ Legal Notice
 
