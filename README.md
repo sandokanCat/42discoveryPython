@@ -95,6 +95,8 @@
 
 </details>
 
+---
+
 <details>
 <summary>🇦🇩 Català</summary>
 
