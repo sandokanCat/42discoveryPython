@@ -12,7 +12,7 @@
 - Exercise statements remain the property of their respective owners.
 
 <div align="center">
-    <a href="https://opensource.org/licenses/MIT">
+    <a href="./LICENSE">
         <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
     </a>
 </div>
@@ -61,7 +61,7 @@
 - Los enunciados de los ejercicios siguen siendo propiedad de sus respectivos titulares.
 
 <div align="center">
-    <a href="https://opensource.org/licenses/MIT">
+    <a href="./LICENSE">
         <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
     </a>
 </div>
@@ -112,7 +112,7 @@
 - Els enunciats dels exercicis continuen sent propietat dels seus respectius titulars.
 
 <div align="center">
-    <a href="https://opensource.org/licenses/MIT">
+    <a href="./LICENSE">
         <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
     </a>
 </div>

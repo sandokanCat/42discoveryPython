@@ -1,7 +1,9 @@
 # BLOCKED
+.*
 *.pdf
 *.png
 
 # ALLOWED
+!.github/
 !*.py
 !*.md
