@@ -42,10 +42,6 @@
 
 ---
 
-👤 © 2025 [sandokan.cat](https://sandokan.cat) — All rights reserved for the source code.
-
----
-
 <details>
 <summary>🇪🇸 Español</summary>
 
@@ -62,7 +58,7 @@
 
 <div align="center">
     <a href="./LICENSE">
-        <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
+        <img src="https://img.shields.io/badge/license-MIT-green?logo=opensourceinitiative&logoColor=white" alt="MIT License">
     </a>
 </div>
 
@@ -89,10 +85,6 @@
     </a>
 </div>
 
----
-
-👤 © 2025 [sandokan.cat](https://sandokan.cat) — Todos los derechos reservados sobre el código fuente.
-
 </details>
 
 ---
@@ -113,7 +105,7 @@
 
 <div align="center">
     <a href="./LICENSE">
-        <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
+        <img src="https://img.shields.io/badge/license-MIT-green?logo=opensourceinitiative&logoColor=white" alt="MIT License">
     </a>
 </div>
 
@@ -139,9 +131,5 @@
         <img src="https://img.shields.io/badge/Fundación_Telefónica-Educación-orange?style=for-the-badge" alt="Fundación Telefónica">
     </a>
 </div>
-
----
-
-👤 © 2025 [sandokan.cat](https://sandokan.cat) — Tots els drets reservats sobre el codi font.
 
 </details>
