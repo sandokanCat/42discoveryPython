@@ -13,7 +13,7 @@
 
 <div align="center">
     <a href="./LICENSE">
-        <img src="https://img.shields.io/badge/license-MIT-green?logo=opensourceinitiative&logoColor=white" alt="MIT License">
+        <img src="https://img.shields.io/badge/License-MIT-3DA639?style=flat-square&logo=opensourceinitiative&logoColor=ffffff&labelColor=545454" alt="MIT License">
     </a>
 </div>
 
@@ -58,7 +58,7 @@
 
 <div align="center">
     <a href="./LICENSE">
-        <img src="https://img.shields.io/badge/license-MIT-green?logo=opensourceinitiative&logoColor=white" alt="MIT License">
+        <img src="https://img.shields.io/badge/License-MIT-3DA639?style=flat-square&logo=opensourceinitiative&logoColor=ffffff&labelColor=545454&label=Licencia" alt="MIT License">
     </a>
 </div>
 
@@ -105,7 +105,7 @@
 
 <div align="center">
     <a href="./LICENSE">
-        <img src="https://img.shields.io/badge/license-MIT-green?logo=opensourceinitiative&logoColor=white" alt="MIT License">
+        <img src="https://img.shields.io/badge/License-MIT-3DA639?style=flat-square&logo=opensourceinitiative&logoColor=ffffff&labelColor=545454&label=Llic%C3%A8ncia" alt="MIT License">
     </a>
 </div>
 
