@@ -125,7 +125,7 @@
 
 <div align="center">
     <a href="https://www.42barcelona.com">
-        <img src="https://img.shields.io/badge/42%20Barcelona-Academy-yellow?logo=42&style=for-the-badge alt="42 Barcelona">
+        <img src="https://img.shields.io/badge/42%20Barcelona-Academy-yellow?logo=42&style=for-the-badge" alt="42 Barcelona">
     </a>
     <a href="https://www.fundaciontelefonica.com/">
         <img src="https://img.shields.io/badge/Fundación_Telefónica-Educación-blue?logo=telefonica&style=for-the-badge" alt="Fundación Telefónica">
