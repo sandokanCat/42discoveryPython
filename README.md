@@ -33,10 +33,10 @@
 
 <div align="center">
     <a href="https://www.42barcelona.com">
-        <img src="https://img.shields.io/badge/42-Project-blue?logo=42&style=for-the-badge" alt="42 Logo">
+        <img src="https://img.shields.io/badge/42-Project-yellow?logo=42" alt="42 Barcelona">
     </a>
     <a href="https://www.fundaciontelefonica.com/">
-        <img src="https://img.shields.io/badge/Fundación_Telefónica-Educación-orange?style=for-the-badge" alt="Fundación Telefónica">
+        <img src="https://img.shields.io/badge/Fundación_Telefónica-Educación-blue?logo=telefonica" alt="Fundación Telefónica">
     </a>
 </div>
 
@@ -78,10 +78,10 @@
 
 <div align="center">
     <a href="https://www.42barcelona.com">
-        <img src="https://img.shields.io/badge/42-Project-blue?logo=42&style=for-the-badge" alt="42 Logo">
+        <img src="https://img.shields.io/badge/42-Project-yellow?logo=42" alt="42 Barcelona">
     </a>
     <a href="https://www.fundaciontelefonica.com/">
-        <img src="https://img.shields.io/badge/Fundación_Telefónica-Educación-orange?style=for-the-badge" alt="Fundación Telefónica">
+        <img src="https://img.shields.io/badge/Fundación_Telefónica-Educación-blue?logo=telefonica" alt="Fundación Telefónica">
     </a>
 </div>
 
@@ -125,10 +125,10 @@
 
 <div align="center">
     <a href="https://www.42barcelona.com">
-        <img src="https://img.shields.io/badge/42-Project-blue?logo=42&style=for-the-badge" alt="42 Logo">
+        <img src="https://img.shields.io/badge/42-Project-yellow?logo=42" alt="42 Barcelona">
     </a>
     <a href="https://www.fundaciontelefonica.com/">
-        <img src="https://img.shields.io/badge/Fundación_Telefónica-Educación-orange?style=for-the-badge" alt="Fundación Telefónica">
+        <img src="https://img.shields.io/badge/Fundación_Telefónica-Educación-blue?logo=telefonica" alt="Fundación Telefónica">
     </a>
 </div>
 
