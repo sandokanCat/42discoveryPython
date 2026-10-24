@@ -58,7 +58,7 @@
 
 <div align="center">
     <a href="./LICENSE">
-        <img src="https://img.shields.io/github/license/sandokanCat/42discoveryPython?style=flat-square&logo=opensourceinitiative&logoColor=%23fff&logoSize=auto&label=Licencia&labelColor=%23545454&cacheSeconds=1800" alt="MIT License">
+        <img src="https://img.shields.io/github/license/sandokanCat/42discoveryPython?style=flat-square&logo=opensourceinitiative&logoColor=%23fff&logoSize=auto&label=Licencia&labelColor=%23545454&cacheSeconds=1800" alt="Licencia MIT">
     </a>
 </div>
 
@@ -105,7 +105,7 @@
 
 <div align="center">
     <a href="./LICENSE">
-        <img src="https://img.shields.io/github/license/sandokanCat/42discoveryPython?style=flat-square&logo=opensourceinitiative&logoColor=%23fff&logoSize=auto&label=Llic%C3%A8ncia&labelColor=%23545454&cacheSeconds=1800" alt="MIT License">
+        <img src="https://img.shields.io/github/license/sandokanCat/42discoveryPython?style=flat-square&logo=opensourceinitiative&logoColor=%23fff&logoSize=auto&label=Llic%C3%A8ncia&labelColor=%23545454&cacheSeconds=1800" alt="Llicència MIT">
     </a>
 </div>
 
